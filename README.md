@@ -1,8 +1,8 @@
 # Social Network Analysis Project
 
-This project was completed as part of the coursework for the course Social Network Analysis during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University. The project is about conducting network analysis in a large network.
+This project was completed as part of the coursework for the course Social Network Analysis during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University. 
 
-The graph we decided to analyze is a huge (1224 nodes liked by 19025 edges) directed-unweighted network of hyperlinks among a large set of U.S. political weblogs from before the 2004 election. It includes blog political affiliation as metadata, where each node represents a political blog and each link represents a reference from one blog to another.
+The work is focused on the analysis of a huge (1224 nodes liked by 19025 edges) directed-unweighted network of hyperlinks among a large set of U.S. political weblogs from before the 2004 election. It includes blog political affiliation as metadata, where each node represents a political blog and each link represents a reference from one blog to another.
 
 During our researches on the nature of the graph, we discovered that it was the object of an interesting paper in which it is analyzed deeply by Lada A. Adamic and Natalie Glance, "The political blogosphere and the 2004 US Election", in Proceedings of the WWW-2005 Workshop on the Weblogging Ecosystem, 2005 (https://edisciplinas.usp.br/pluginfile.php/3333574/mod_resource/content/2/p36-adamic.pdf).
 
