@@ -1,4 +1,4 @@
-# Social Network Analysis Project
+# Political Blogs Network Analysis
 
 This project was completed as part of the coursework for the course Social Network Analysis during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University. 
 
